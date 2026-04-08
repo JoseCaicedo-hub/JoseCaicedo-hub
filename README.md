@@ -30,3 +30,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=react,laravel,django,spring,node,git,github,vscode" />
 </p>
+
+<p>
+Este es mi ecommerce usando Laravel desplegado en AWS: http://18.119.112.58
+</p>
