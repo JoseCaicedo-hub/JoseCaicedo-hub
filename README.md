@@ -1,21 +1,27 @@
 <h1 align="center">Hi 👋, I'm Jose Javier Caicedo Guerrero</h1>
 <h3 align="center">Software Development Student from Colombia 🇨🇴 | Passionate about Web Development, APIs and Modern JavaScript</h3>
 
-- 🔭 I’m currently working on **A marketplace web platform**
+🔭 I’m currently working on A marketplace web platform
 
-- 🌱 I’m currently learning **Django,Spring boot Node.js and modern web development practices**
+🌱 I’m currently learning Django,Spring boot Node.js and modern web development practices
 
-- 👯 I’m looking to collaborate on **Open Source Web Development Projects**
+👯 I’m looking to collaborate on Open Source Web Development Projects
 
-- 🤝 I’m looking for help with **Backend development and system architecture**
+🤝 I’m looking for help with Backend development and system architecture
 
-- 👨‍💻 All of my projects are available at [🌐 Portfolio: JoseCaicedo-hub](🌐 Portfolio: JoseCaicedo-hub)
+👨‍💻 All of my projects are available at [🌐 Portfolio: JoseCaicedo-hub](🌐 Portfolio: JoseCaicedo-hub)
 
-- 💬 Ask me about **JavaScript, PHP, Python, Java, React, APIs, Dashboards and Web Development**
+💬 Ask me about JavaScript, PHP, Python, Java, React, APIs, Dashboards and Web Development
 
-- 📫 How to reach me **jjaviercaice89@gmail.com**
+📫 How to reach me jjaviercaice89@gmail.com
 
-- ⚡ Fun fact **I enjoy building web platforms that solve real problems**
+⚡ Fun fact I enjoy building web platforms that solve real problems
+
+###git status
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseCaicedo-hub&theme=tokyonight&locale=es)](https://git.io/streak-stats)
+
+![JoseCaicedo-hub's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseCaicedo-hub&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
