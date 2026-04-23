@@ -17,7 +17,6 @@
 
 ⚡ Fun fact I enjoy building web platforms that solve real problems
 
-###git status
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JoseCaicedo-hub&theme=tokyonight&locale=es)](https://git.io/streak-stats)
 
