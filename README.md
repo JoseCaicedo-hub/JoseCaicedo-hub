@@ -37,5 +37,9 @@
 </p>
 
 <p>
+En estos momento se acabo mi suscripcion gratuita sin embargo pueden encontrar mi proyecto de ecommerce en LARAVEL en mi descripcion
 Este es mi ecommerce usando Laravel desplegado en AWS: http://18.119.112.58
+
+Tambien les comparto el link de mi chatgpt en donde pueden encontrar el paso a paso de como hacer el despliegue en AWS https://chatgpt.com/share/69b8453f-d5d4-8001-977d-772aa4ff841b 
+Les recuerdo que por suscripcios AWS les regala 200 dolares gratis <3
 </p>
